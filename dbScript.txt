@@ -1,0 +1,13 @@
+
+
+Insert record in oracle db
+===============================
+
+insert into Employee_Tab Values(111,"Devdutt","devdutt@gmail",80000);
+insert into Employee_Tab Values(112,"Mayur"," mayur@gmail.com ",34000);
+insert into Employee_Tab Values(113,"Shailja","shailja@gmail.com",67000);
+insert into Employee_Tab Values(114,"Devanshu","devanshu@gmail.com",56000);
+insert into Employee_Tab Values(115,"Deepshikha","deepshikha@gmail.com",35000);
+insert into Employee_Tab Values(116,"Darshan","darshan@gmail",25000);
+
+
